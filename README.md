@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kleon31
+- 👋 Hi, I’m Kyle
 - 👀 I’m interested in games and databases
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on ...
